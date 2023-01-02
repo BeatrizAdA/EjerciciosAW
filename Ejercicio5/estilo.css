@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(255, 194, 68);
+}
+
+.filaLogo {
+    margin: auto;
+    width: 12%;
+    margin-top: 10em;
+    margin-bottom: 2em;
+}
+
+.filaLetras {
+    margin: auto;
+}
+
+h1,
+h2 {
+    color: white;
+    text-align: center;
+}
+
+span {
+    color: rgb(0, 160, 130);
+}
+
+h1 {
+    font-size: 3.5vw;
+}
+
+h2 {
+    font-size: 2.5vw;
+}
+
+.filaOpciones {
+    margin-top: 2em;
+    text-align: center;
+}
+
+a:hover>img {
+    border: 2px black solid;
+}

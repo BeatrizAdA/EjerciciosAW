@@ -1,0 +1,86 @@
+.rojo {
+    color: red;
+}
+
+.resaltado {
+    background: lightgray;
+}
+
+#tc {
+    font-style: italic;
+    width: 30em;
+    text-align: center;
+    border: 2px solid gainsboro;
+    margin-top: 5em;
+}
+
+img {
+    background-color: black;
+}
+
+#cabecera {
+    background-color: brown;
+    height: 6em;
+    text-align: center;
+}
+
+h1 {
+    color: gainsboro;
+    padding-top: 1em;
+}
+
+.menu {
+    margin-top: 1em;
+    width: 5em;
+    height: 2em;
+    background-color: black;
+    text-align: center;
+    padding-top: 1em;
+    margin-right: 0.5em;
+}
+
+.menu>a {
+    text-decoration: none;
+    color: white;
+}
+
+#cursos,
+#deportes,
+#cafeteria,
+#ocio {
+    float: left;
+}
+
+#gris {
+    background-color: gainsboro;
+    height: 2em;
+    padding-top: 1em;
+}
+
+.Tgris {
+    background-color: gainsboro;
+}
+
+#Tamarillo {
+    background-color: burlywood;
+}
+
+#Trosa {
+    background-color: palevioletred;
+}
+
+#Tverde {
+    background-color: green;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
+.rosa {
+    background-color: pink;
+}
+
+.verde {
+    background-color: greenyellow;
+}

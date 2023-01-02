@@ -1,0 +1,36 @@
+#logo,
+#articulo1,
+#articulo2 {
+    border: 1px solid black;
+    background-color: cadetblue;
+    margin: 5px;
+    text-align: center;
+}
+
+#logo {
+    width: 10%;
+    float: left;
+    height: 6em;
+    margin-left: 10px;
+    display: block;
+}
+
+#contenido {
+    width: 58.5%;
+    float: left;
+}
+
+#articulos {
+    display: block;
+    width: 20%;
+    float: right;
+}
+
+#articulo1,
+#articulo2 {
+    height: 12.25em;
+}
+
+#articulo1 {
+    margin-top: 0;
+}

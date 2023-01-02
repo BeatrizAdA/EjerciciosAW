@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+}
+
+.formulario {
+    width: 60%;
+    margin: auto;
+    margin-bottom: 1em;
+}
+
+.espacio {
+    height: 2em;
+}
+
+#nombre,
+#primerApellido,
+#segundoApellido {
+    float: left;
+}
+
+.inputNomApe {
+    width: 14.5em;
+}
+
+#primerApellido,
+#segundoApellido {
+    margin-left: 0.3em;
+}
+
+#inputDir {
+    width: 30em;
+}
+
+#inputEmail {
+    width: 20em;
+}
+
+.opciones {
+    margin-left: 1em;
+}
+
+#comentario {
+    margin-top: 0.5em;
+    width: 40em;
+    height: 7em;
+}
+
+.botones {
+    margin: 0.5em 0em 0.5em 0em;
+}

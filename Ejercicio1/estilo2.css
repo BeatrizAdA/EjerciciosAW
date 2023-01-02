@@ -1,0 +1,22 @@
+#opciones {
+    border: 1px solid black;
+    background-color: cadetblue;
+    margin: 5px;
+    text-align: center;
+    width: 20%;
+    height: 25em;
+    display: block;
+    float: left;
+    margin-top: 0;
+}
+
+#contenido {
+    width: 78%;
+    display: block;
+    float: right;
+    margin-right: 5px;
+}
+
+#piePagina {
+    clear: both;
+}
